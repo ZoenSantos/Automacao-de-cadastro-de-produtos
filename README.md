@@ -7,12 +7,12 @@ Para Windows: https://www.youtube.com/watch?v=Zy3iaMZbPO8&t=0s
 Para Mac: https://www.youtube.com/watch?v=vcltUZMcKdc&t=0s
 
 #As bibliotecas necessárias 
-##Para fazer tudo isso funcionar foram as:
-###pyautogui
-###pandas
-###time(Já existente quando fazer download do python mas se não tiver certeza tu pode só baixar)
+## Para fazer tudo isso funcionar foram as:
+### pyautogui
+### pandas
+### time(Já existente quando fazer download do python mas se não tiver certeza tu pode só baixar)
 
 #Formas de instalação:
-##Para baixar o pyautogui e o pandas pode e deve ser usado o powershell se tu estiver no windows após isso deve ser usado o seguinte código:
-##pip install pyautogui 
-##pip install pandas
+## Para baixar o pyautogui e o pandas pode e deve ser usado o powershell se tu estiver no windows após isso deve ser usado o seguinte código:
+## pip install pyautogui 
+## pip install pandas
