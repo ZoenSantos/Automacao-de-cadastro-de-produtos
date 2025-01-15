@@ -14,5 +14,5 @@ Para Mac: https://www.youtube.com/watch?v=vcltUZMcKdc&t=0s
 
 #Formas de instalação:
 ## Para baixar o pyautogui e o pandas pode e deve ser usado o powershell se tu estiver no windows após isso deve ser usado o seguinte código:
-## pip install pyautogui 
-## pip install pandas
+### pip install pyautogui 
+### pip install pandas
