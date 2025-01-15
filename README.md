@@ -6,8 +6,8 @@ Para fazer com que a implantação funcione se recomenda seguir o seguinte víde
 Para Windows: https://www.youtube.com/watch?v=Zy3iaMZbPO8&t=0s
 Para Mac: https://www.youtube.com/watch?v=vcltUZMcKdc&t=0s
 
-#As bibliotecas necessárias 
-## Para fazer tudo isso funcionar foram as:
+# As bibliotecas necessárias 
+### Para fazer tudo isso funcionar foram necessárias usarem as seguintes bibliotecas:
 ### pyautogui
 ### pandas
 ### time(Já existente quando fazer download do python mas se não tiver certeza tu pode só baixar)
